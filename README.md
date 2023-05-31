@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @geocarvalho
-- 👀 I’m interested in bioinformatics, human genetics, data science, and machine learning.
-- 🌱 I’m currently learning back-end skills, french, and clinical bioinformatics.
-- 💞️ I’m looking to collaborate on clinical bioinformatics or healthcare data science projects.
-- 📫 You can reach me by e-mail, twitter or linkedin
+- Hi, I’m @geocarvalho
+- I’m interested in bioinformatics, human genetics, data science, and machine learning.
+- I’m currently learning back-end skills, french, and clinical bioinformatics.
+- I’m looking to collaborate on clinical bioinformatics or healthcare data science projects.
+- You can reach me by e-mail, twitter or linkedin
 
 ## :headphones: Currently listening to 
 
