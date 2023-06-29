@@ -4,6 +4,8 @@
 - I’m looking to collaborate on clinical bioinformatics or healthcare data science projects.
 - You can reach me by e-mail, twitter or linkedin
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geocarvalho)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :headphones: Currently listening to 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=geopandah&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=924eb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=geopandah&redirect=true)
