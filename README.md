@@ -1,7 +1,7 @@
 - Hi, I’m @geocarvalho
 - I’m interested in bioinformatics, human genetics, data science, and machine learning.
 - I’m currently learning 🧬clinical bioinformatics, 🎸acoustic guitar, 🇫🇷french, 👨‍🏫 statistics and 💻back-end skills.
-- I’m looking to collaborate on clinical bioinformatics or healthcare data science projects.
+- I want to collaborate on clinical bioinformatics or healthcare data science projects.
 - You can reach me by e-mail, Twitter, or LinkedIn.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geocarvalho)](https://github.com/anuraghazra/github-readme-stats)
