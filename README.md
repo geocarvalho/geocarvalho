@@ -5,3 +5,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geocarvalho)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=geocarvalho&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
